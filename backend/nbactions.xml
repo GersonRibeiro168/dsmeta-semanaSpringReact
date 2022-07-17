@@ -17,10 +17,6 @@
                 <exec.appArgs></exec.appArgs>
                 <exec.mainClass>com.devsuperior.dsmeta.DsmetaApplication</exec.mainClass>
                 <exec.executable>java</exec.executable>
-                <TWILIO_SID>ACb676704fa406ee91e6ee3dd84c190e71</TWILIO_SID>
-                <TWILIO_KEY>48254e331d0cb6abca5ef910909505d7</TWILIO_KEY>
-                <TWILIO_PHONE_FROM>+19706346961</TWILIO_PHONE_FROM>
-                <TWILIO_PHONE_TO>+5595988023512</TWILIO_PHONE_TO>
             </properties>
         </action>
         <action>
